@@ -1,0 +1,4 @@
+// check package.json
+npm init -y
+npm install react react-dom react-scripts ollama lucide-react
+npm start
