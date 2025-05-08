@@ -1,0 +1,402 @@
+[
+    {
+        "name": "TOYOTA YARIS",
+        "car_id": "1",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "299",
+        "image_url": "https://dimacari.ma/public/images/cars/1737172693_UdMAI9Tp5LKFePCuxaTC4LBB1EnYUYJnFFhOcdPW.webp"
+    },
+    {
+        "name": "CLIO 5",
+        "car_id": "2",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "350",
+        "image_url": "https://dimacari.ma/public/images/cars/1734443939_Renault-Clio-5-Habitacle.jpg"
+    },
+    {
+        "name": "SEAT LEON",
+        "car_id": "3",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "330",
+        "image_url": "https://dimacari.ma/public/images/cars/1734444162_Seat_Leon_1.5_eTSI_DSG_FR_2020_LA-2-1328x747.webp"
+    },
+    {
+        "name": "MEGANE 4",
+        "car_id": "4",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "334",
+        "image_url": "https://dimacari.ma/public/images/cars/1734444461_renault_megane_phev_1920x1080.jpg"
+    },
+    {
+        "name": "TOUARG",
+        "car_id": "5",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "900",
+        "image_url": "https://dimacari.ma/public/images/cars/1734478946_Volkswagen-Touareg-2024-1600-20-copie-1024x768.jpg"
+    },
+    {
+        "name": "FIAT 500",
+        "car_id": "6",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "290",
+        "image_url": "https://dimacari.ma/public/images/cars/1734479853_moteur.ma-890544.jpg"
+    },
+    {
+        "name": "CLIO 5",
+        "car_id": "7",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "290",
+        "image_url": "https://dimacari.ma/public/images/cars/1735854524_renault-clio-5-restylee-2023-6.jpg"
+    },
+    {
+        "name": "ALFA ROMEO",
+        "car_id": "8",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "320",
+        "image_url": "https://dimacari.ma/public/images/cars/1735876524_402561-2022-alfa-romeo-stelvio.jpg"
+    },
+    {
+        "name": "HYUNDAI ACCENT",
+        "car_id": "9",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "350",
+        "image_url": "https://dimacari.ma/public/images/cars/1739407579_ACCENT.jpeg"
+    },
+    {
+        "name": "GOLF 8",
+        "car_id": "10",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "360",
+        "image_url": "https://dimacari.ma/public/images/cars/1736223546_g-4__vf8556234.jpg.800x800_q85_crop-scale.jpg.webp"
+    },
+    {
+        "name": "TUCSON",
+        "car_id": "11",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "380",
+        "image_url": "https://dimacari.ma/public/images/cars/1736223781_main-1.webp"
+    },
+    {
+        "name": "FIAT 500",
+        "car_id": "12",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "290",
+        "image_url": "https://dimacari.ma/public/images/cars/1737715178_WhatsApp Image 2025-01-23 at 23.01.34 (6).jpeg"
+    },
+    {
+        "name": "GOLF 8",
+        "car_id": "13",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "750",
+        "image_url": "https://dimacari.ma/public/images/cars/1739468362_GOLF 8.jpeg"
+    },
+    {
+        "name": "CLIO 5",
+        "car_id": "14",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "330",
+        "image_url": "https://dimacari.ma/public/images/cars/1737715564_WhatsApp Image 2025-01-23 at 23.01.32 (7).jpeg"
+    },
+    {
+        "name": "M. CLASSE CLA",
+        "car_id": "15",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "1000",
+        "image_url": "https://dimacari.ma/public/images/cars/1737828853_WhatsApp Image 2025-01-23 at 23.15.38 (6).jpeg"
+    },
+    {
+        "name": "T-ROC",
+        "car_id": "16",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "700",
+        "image_url": "https://dimacari.ma/public/images/cars/1737828424_WhatsApp Image 2025-01-23 at 23.01.33.jpeg"
+    },
+    {
+        "name": "AUDI A3",
+        "car_id": "17",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "1000",
+        "image_url": "https://dimacari.ma/public/images/cars/1737828599_WhatsApp Image 2025-01-23 at 23.15.40 (2).jpeg"
+    },
+    {
+        "name": "AUDI Q3",
+        "car_id": "18",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "1000",
+        "image_url": "https://dimacari.ma/public/images/cars/1737829053_WhatsApp Image 2025-01-23 at 23.15.39 (6).jpeg"
+    },
+    {
+        "name": "TOUARG",
+        "car_id": "19",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "900",
+        "image_url": "https://dimacari.ma/public/images/cars/1737837443_TOUAREG.png"
+    },
+    {
+        "name": "HYUNDAI TUCSON",
+        "car_id": "20",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "650",
+        "image_url": "https://dimacari.ma/public/images/cars/1737944093_WhatsApp Image 2025-01-23 at 23.01.31 (2).jpeg"
+    },
+    {
+        "name": "RANGE EVOQUE",
+        "car_id": "21",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "900",
+        "image_url": "https://dimacari.ma/public/images/cars/1739385274_476742842_1263709928068671_4421593381470253200_n.jpg"
+    },
+    {
+        "name": "SEAT CUPRA",
+        "car_id": "22",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "750",
+        "image_url": "https://dimacari.ma/public/images/cars/1739393596_cupra.jpg"
+    },
+    {
+        "name": "CLASS A PACK AMG",
+        "car_id": "23",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "900",
+        "image_url": "https://dimacari.ma/public/images/cars/1739393791_class a pack amg.jpg"
+    },
+    {
+        "name": "TIGWAN",
+        "car_id": "24",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "800",
+        "image_url": "https://dimacari.ma/public/images/cars/1739394010_TIGWAN.jpg"
+    },
+    {
+        "name": "TOYOTA PRADO",
+        "car_id": "25",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "2000",
+        "image_url": "https://dimacari.ma/public/images/cars/1739394299_PRADO 5.jpg"
+    },
+    {
+        "name": "RANGE SPORT",
+        "car_id": "26",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "3000",
+        "image_url": "https://dimacari.ma/public/images/cars/1739394471_RANGE SPORT 2.jpg"
+    },
+    {
+        "name": "PEUGEOT 208",
+        "car_id": "27",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "300",
+        "image_url": "https://dimacari.ma/public/images/cars/1739406893_Peugeot 2008.jpeg"
+    },
+    {
+        "name": "LODGY 7 PLACES",
+        "car_id": "28",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "400",
+        "image_url": "https://dimacari.ma/public/images/cars/1739407122_LODGY 2.jpeg"
+    },
+    {
+        "name": "AUDI Q8",
+        "car_id": "29",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "2000",
+        "image_url": "https://dimacari.ma/public/images/cars/1739407417_AUDI Q8.jpeg"
+    },
+    {
+        "name": "LOGAN DACIA",
+        "car_id": "30",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "300",
+        "image_url": "https://dimacari.ma/public/images/cars/1739468250_LOGAN DACIA.jpeg"
+    },
+    {
+        "name": "PORCHE MACAN GTS",
+        "car_id": "31",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "2700",
+        "image_url": "https://dimacari.ma/public/images/cars/1739468875_PORCHE MACAN S.jpeg"
+    },
+    {
+        "name": "PORCHE MACAN",
+        "car_id": "32",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "2100",
+        "image_url": "https://dimacari.ma/public/images/cars/1739468931_PORCHE MACAN.jpeg"
+    },
+    {
+        "name": "M. CLASSE A",
+        "car_id": "33",
+        "city_id": "52",
+        "city_name": "Marrakech",
+        "price": "900",
+        "image_url": "https://dimacari.ma/public/images/cars/1739469444_CLASS A.jpeg"
+    },
+    {
+        "name": "CITROEN C ELYSEE",
+        "car_id": "34",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "300",
+        "image_url": "https://dimacari.ma/public/images/cars/1739639963_Citroen c elysée.txt"
+    },
+    {
+        "name": "WV T-ROC",
+        "car_id": "35",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "300",
+        "image_url": "https://dimacari.ma/public/images/cars/1739640144_T ROC.txt"
+    },
+    {
+        "name": "H. TUCSON",
+        "car_id": "36",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "390",
+        "image_url": "https://dimacari.ma/public/images/cars/1739640316_TUCSON.txt"
+    },
+    {
+        "name": "DACIA DUSTER",
+        "car_id": "37",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "300",
+        "image_url": "https://dimacari.ma/public/images/cars/1739640438_dacia duster.txt"
+    },
+    {
+        "name": "LODGY 7 PLACES",
+        "car_id": "38",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "290",
+        "image_url": "https://dimacari.ma/public/images/cars/1739640608_LODGY.txt"
+    },
+    {
+        "name": "D. LOGAN",
+        "car_id": "39",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "280",
+        "image_url": "https://dimacari.ma/public/images/cars/1739640823_LOGAN.txt"
+    },
+    {
+        "name": "D. SANDERO",
+        "car_id": "40",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "250",
+        "image_url": "https://dimacari.ma/public/images/cars/1739640719_STREETWAY SANDERO.txt"
+    },
+    {
+        "name": "LODGY 7 PLACES",
+        "car_id": "41",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "290",
+        "image_url": "https://dimacari.ma/public/images/cars/1739640984_BLACK LODGY.txt"
+    },
+    {
+        "name": "PEUGEOT 208",
+        "car_id": "42",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "270",
+        "image_url": "https://dimacari.ma/public/images/cars/1739641105_PEUGEOT 208 1.txt"
+    },
+    {
+        "name": "D. SANDERO",
+        "car_id": "43",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "250",
+        "image_url": "https://dimacari.ma/public/images/cars/1739641527_STEPWAY ARGENT.txt"
+    },
+    {
+        "name": "D. LOGAN",
+        "car_id": "44",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "250",
+        "image_url": "https://dimacari.ma/public/images/cars/1739641680_LOGAN ARGENT.txt"
+    },
+    {
+        "name": "FIAT TIPO",
+        "car_id": "45",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "250",
+        "image_url": "https://dimacari.ma/public/images/cars/1739641797_FIAT TIPO.txt"
+    },
+    {
+        "name": "CLIO 4",
+        "car_id": "46",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "250",
+        "image_url": "https://dimacari.ma/public/images/cars/1739641964_CLIO 4 BLACK.txt"
+    },
+    {
+        "name": "FIAT TIPO",
+        "car_id": "47",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "250",
+        "image_url": "https://dimacari.ma/public/images/cars/1739642106_FIAT TIPO GRIS.txt"
+    },
+    {
+        "name": "DACIA LOGAN",
+        "car_id": "48",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "300",
+        "image_url": "https://dimacari.ma/public/images/cars/1740094057_LOGAN .jpeg"
+    },
+    {
+        "name": "AUDI Q",
+        "car_id": "49",
+        "city_id": "1",
+        "city_name": "Agadir",
+        "price": "1000",
+        "image_url": "https://dimacari.ma/public/images/cars/1741838751_AUDI Q8.jpeg"
+    },
+    {
+        "name": "CITROEN",
+        "car_id": "50",
+        "city_id": "30",
+        "city_name": "Errachidia",
+        "price": "300",
+        "image_url": "https://dimacari.ma/public/images/cars/1741920939_WhatsApp Image 2025-03-11 à 00.12.13_7be5ad23.jpg"
+    }
+]
