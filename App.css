@@ -1,1 +1,245 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.app.dark-mode {
+  background-color: #121212;
+  color: #f5f5f5;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.model-select {
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  border: none;
+  font-size: 0.9rem;
+}
+
+.chat-window {
+  padding: 1rem;
+  height: 75vh;
+  overflow-y: auto;
+  background-color: #fafafa;
+}
+
+.app.dark-mode .chat-window {
+  background-color: #1f1f1f;
+}
+
+.message {
+  margin: 0.75rem 0;
+  max-width: 90%;
+}
+
+.message.user .message-content {
+  text-align: right;
+  background-color: #d1ecf1;
+  color: #0c5460;
+  padding: 0.6rem 1rem;
+  border-radius: 12px;
+  margin-left: auto;
+}
+
+.message.ai .message-content {
+  text-align: left;
+  background-color: #e2e3e5;
+  color: #383d41;
+  padding: 0.6rem 1rem;
+  border-radius: 12px;
+  margin-right: auto;
+  position: relative;
+}
+
+.app.dark-mode .message.ai .message-content {
+  background-color: #333;
+  color: #eee;
+}
+
+.speak-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 0.5rem;
+}
+
+.car-results {
+  margin-top: 1rem;
+}
+
+.car-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+
+.car-card {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.app.dark-mode .car-card {
+  background-color: #2c2c2c;
+}
+
+.car-media img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+}
+
+.car-details {
+  padding: 0.8rem;
+}
+
+.car-details h3 {
+  margin: 0.3rem 0;
+  font-size: 1rem;
+}
+
+.price-badge {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.location {
+  font-size: 0.85rem;
+  color: #6c757d;
+}
+
+.details-btn {
+  margin-top: 0.6rem;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.85rem;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.details-btn:hover {
+  background-color: #0056b3;
+}
+
+.car-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 500px;
+  position: relative;
+}
+
+.app.dark-mode .modal-content {
+  background-color: #1f1f1f;
+  color: #f5f5f5;
+}
+
+.close-btn {
+  position: absolute;
+  top: 0.7rem;
+  right: 1rem;
+  font-size: 1.5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #999;
+}
+
+.gallery img {
+  width: 100%;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+}
+
+.specs p {
+  margin: 0.5rem 0;
+}
+
+/* Input box and controls */
+input[type="text"] {
+  font-size: 1rem;
+  width: 100%;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.border-t {
+  border-top: 1px solid #ccc;
+}
+
+.bg-gray-100 {
+  background-color: #f8f9fa;
+}
+
+.dark\:bg-gray-800 {
+  background-color: #1f1f1f;
+}
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.rounded-lg {
+  border-radius: 8px;
+}
+
+.shadow-md {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.placeholder-gray-400 {
+  color: #ccc;
+}
+
+.dark\:placeholder-gray-500 {
+  color: #666;
+}
+
+.text-gray-500 {
+  color: #6c757d;
+}
+
+.text-red-500 {
+  color: red;
+}
 
